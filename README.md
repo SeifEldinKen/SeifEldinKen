@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Seif Eldin
 
-## 🚀 Mid-Level Backend Developer | System Architect
+## 🚀 Backend Developer | System Architect
 
 **Building scalable solutions at the intersection of innovation and performance**
 
